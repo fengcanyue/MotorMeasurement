@@ -1,0 +1,59 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+#
+/STM32F103/OBJ
+!/STM32F103/OBJ/test01.hex
+/STM32F103/USER/startup_stm32f10x_hd.lst
+/STM32F103/USER/test01.map
+/STM32F103/USER/test01_stm32f103_test.dep
+/STM32F103/USER/JLinkLog.txt
+/STM32F103/USER/test01.uvgui_123.bak
+/STM32F103/USER/test01_uvopt.bak
+/STM32F103/USER/test01_uvproj.bak
+/STM32F103/USER/test01.uvgui.123
+/STM32F103/USER/test01.uvopt
+/UI_0620_windows/build-UI_622-Desktop_Qt_5_4_1_MinGW_32bit-Debug
+/UI_0620_windows/build-UI_622-Desktop_Qt_5_5_0_MinGW_32bit-Debug
+/UI_0620_windows/build-UI_622-unknown-Debug
